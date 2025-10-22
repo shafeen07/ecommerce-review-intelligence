@@ -2,8 +2,6 @@
 
 AI-powered analytics chatbot that processes millions of Amazon product reviews to provide actionable business insights through natural language queries.
 
-[![Watch Demo](https://img.shields.io/badge/▶️_Watch-Demo_Video-red?style=for-the-badge)](demo/Chatbot%20Demo.mp4)
-
 ---
 
 ## 🎯 Overview
